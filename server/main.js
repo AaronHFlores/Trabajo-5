@@ -7,7 +7,7 @@ var PORT = process.env.PORT || 8080;
 var messages = [{
   id: 1,
   text: "Bienvenidos",
-  author: "Aaron"
+  author: "Montse"
 }]
 
 app.use(express.static('public'));
